@@ -1,0 +1,23 @@
+
+
+.card{
+     width: 300px;
+     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+     padding: 2rem;
+     margin-left: 5rem;
+     margin-bottom:2rem;
+}
+.grid{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
+@media screen and (max-width : 500px){
+  
+.card{
+     width: 180px !important;
+}
+
+}

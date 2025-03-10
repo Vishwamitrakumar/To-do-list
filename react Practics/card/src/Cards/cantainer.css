@@ -1,0 +1,19 @@
+.cantainer {
+     width: 100%;
+     display: flex;
+     justify-content: center;
+     padding-top: 20px;
+}
+
+
+.cantainer-form {
+    
+     width: 30%;
+     padding-top: 10px;
+     border-radius: 8px;
+     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.int {
+width: 350px
+}
